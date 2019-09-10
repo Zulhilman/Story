@@ -1,0 +1,7 @@
+First text unedited.
+Git init
+Git status
+Git add
+
+Git commit -m "Complete chapter 1"
+// -m = message
